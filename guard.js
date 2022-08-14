@@ -363,7 +363,7 @@ process.on("uncaughtExpection", function (err) {
 
 //-----------------------------------SUNUCU KORUMA--------------------------------\\
 
-client.login('OTc4NjUyNzkxMjcyNzcxNTk0.GUnlWM.u3S0LuENVdsqdm8ENlWXLyB0dyO9S6OeXSaOiE'); // Glitchde kullanacaklar varsa process.env.token yazıp env e token girebilirler
+client.login('OTc4NjUyNzkxMjcyNzcxNTk0.GxpH44.ExS1E0fFZFmGVMqomvKVx4Rsl2IPFOyJqPTbmc'); // Glitchde kullanacaklar varsa process.env.token yazıp env e token girebilirler
 
 
 
